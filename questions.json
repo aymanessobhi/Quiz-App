@@ -1,0 +1,17 @@
+[
+    {
+        "question" : "What is the capital of france ?",
+        "choices": ["Paris","London","Berlin","Rome"],
+        "correctAnswer" : 0
+    },
+    {
+        "question" : "What is the tallest mammal ?",
+        "choices" :["Elephant","Giraffe","Kangaoo","Gorilla"],
+        "correctAnswer" : 1
+    },
+    {
+        "question" : "What is the currency of japan ?",
+        "choices": ["Euro","Yen","Dollar","Pound"],
+        "correctAnswer" : 1
+    }
+]
